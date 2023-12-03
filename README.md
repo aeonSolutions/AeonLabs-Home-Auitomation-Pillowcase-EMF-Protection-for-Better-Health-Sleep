@@ -25,9 +25,45 @@ Last update: 03-12-2023
 
 # Pillowcase EMF Protection for Better Health &amp; Sleep
 
+## The problem
+nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
+
+## The idea
+This smart device is intended to be installed and fixed into a Pillow made for electromagnetic (EM) radiation detection. It has the main ability to collect EM sensor data from the piloow itself while you sleep at night and send it to a public data repository, for instance a #dataverse (see www.dataverse.org)
+
 <p align="center">
+  <a href="https://s.click.aliexpress.com/e/_Dexysod" target="_blank">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
+  </a>
 </p>
+
+<br>
+
+The smart safety & health solution, is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
+
+**This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
+
+**When installing this smart solution, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" this smart device is unable to detect**.  
+
+**Always use this smart device connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solution provided. 
+
+**Be advised**
+
+
+Known open data repositories partially compatible with these smart devices:
+- www.dataverse.org [partial compatible] (open firmware provided here uses a dataverse repository API)
+- www.figshare.com [partial compatible]
+- www.datadryad.org [not compatible; no API]
+
+<br>
+
+<p align="center">
+    <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png">
+</p>
+
+<br>
+
+
 
 <br>
 <br>
