@@ -1,5 +1,4 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
@@ -20,16 +19,16 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 03-12-2023
+Last update: 06-05-2024
 </p>
 
 # Pillowcase EMF Protection for Better Health &amp; Sleep
 
 ## The problem
-nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
+nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposure to this kind of radiation however none have the ability to collect EMF energy values directly from a window or access door to a balcony.
 
 ## The idea
-This smart device is intended to be installed and fixed into a Pillow made for electromagnetic (EM) radiation detection. It has the main ability to collect EM sensor data from the piloow itself while you sleep at night and send it to a public data repository, for instance a #dataverse (see www.dataverse.org). Anyone can [buy the pillow on Aliexpress](https://s.click.aliexpress.com/e/_Dexysod).
+This smart device is intended to be installed and fixed into a Pillow made for electromagnetic (EM) radiation detection. It has the main ability to collect EM sensor data from the pillow itself while you sleep at night and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org). Anyone can [buy the pillow on Aliexpress](https://s.click.aliexpress.com/e/_Dexysod).
 
 <p align="center">
   <a href="https://s.click.aliexpress.com/e/_Dexysod" target="_blank">
@@ -39,7 +38,7 @@ This smart device is intended to be installed and fixed into a Pillow made for e
 
 <br>
 
-The smart safety & health solution, is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
+The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
 **This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
