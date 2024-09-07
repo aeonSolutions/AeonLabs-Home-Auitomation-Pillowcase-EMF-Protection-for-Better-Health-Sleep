@@ -54,15 +54,35 @@ This smart device is intended to be installed and fixed into a Pillow made for e
   </a>
 </p>
 
+## Total Cost of this Project
+The total cost of this project to date is listed below:
+- Work hours dedicated to this project: >150 w.h <br>
+  This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks. <br>
+  hardware electronics assembly and testing, several times.
+- Electronic components > 300 eur
+- ABS Enclosures ~30 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DCsIVkJ) )
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
+See [here](https://github.com/aeonSolutions/AeonLabs-Safety-Health) who sponsored, to this date, the Safety & Health project. 
+
 <br>
 
+## Important Information
 The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
 **This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
-**When installing this smart solution, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" this smart device is unable to detect**.  
+**When installing this smart solution, take action and be conscious that the aggression/aggressor may change to other types and kinds of "wireless devices" this smart device is unable to detect**.  
 
-**Always use this smart device connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solution provided. 
+**Always use this smart device connected to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solution provided. 
 
 **Be advised**
 
@@ -85,6 +105,37 @@ Known open data repositories partially compatible with these smart devices:
 </p>
 
 <br>
+
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
+  Hardware electronics are Fully tested and working. The first 🥇 release of the firmware code is now available.
+  
+  <p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
+
+</p>
+
+[January 1, 2024] - The firmware 1.0.0 for Over the Air Updates is now released to the public. Goto the [releases section](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/releases/tag/openFirmware) to learn more.  
+
+<br>
+
+## OEM Firmware code
+The OEM version of the firmware code can be found in the folder **OEM firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions are made available here.  
+
+This code uses my own ESP32 C++ class libraries to expedite the development of the code of ESP32 microcontrollers. The repository is located in the [open source software section](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme).
+
+#### Send the collected sensor data to this repository
+On this repository, there's a special folder, named [datasets](https://github.com/aeonSolutions/AeonLabs-Safety-Health/tree/main/Measurements/datasets), where anyone is able to upload dataset files directly from their open smart devices. This folder is intended to facilitate sharing of "electromagnetic" measurements among anyone with interest and capable of studying and analyzing it in search of EM anomalies to improve detection of the open hardware electronics made available here. **Anyone is invited to participate, cost-free**. 
+
+&nbsp;&nbsp; To assist you with the firmware programming, there's a C++ test code compatible with all Arduino devices that anyone can use to speed up the programming of the open smart device. Here's the link: <br>
+https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code/tree/main/github_api_test_upload <br>
+Any questions on how to do it, send me a message on the Discord Server:
+
+<div align="center">
+
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
+
+</div>
+
 <br>
 
 ## Compatibility
